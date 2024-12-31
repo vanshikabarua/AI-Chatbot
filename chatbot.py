@@ -17,8 +17,8 @@ import asyncio
 message_history = {}
 load_dotenv()
 
-GOOGLE_AI_KEY = "AIzaSyCF8_S9Foa5QhhiyYNuRhBsqEaYjqDr7AY"
-DISCORD_BOT_TOKEN = "MTI4NTE4MTQ1MTYyODk2OTk4NA.GOOg6b.i_Eue4ONBsjcGbdsWjS6zIyqFtY6ud5pxE__WE"
+GOOGLE_AI_KEY = "GOOGLE_GEMINI_API_KEY"
+DISCORD_BOT_TOKEN = "DISCORD_BOT_TOKEN"
 MAX_HISTORY = 1000
 
 # Initial prompt for the chatbot
